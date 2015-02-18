@@ -1,0 +1,8 @@
+name: MerchantNPC
+author: lanky5544
+version: 0.01-alpha
+description: Testing for Server no desc yet
+main: project.lanky5544.merchantnpc.Main
+commands:
+    hub:
+      description: Teleports player to spawn
